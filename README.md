@@ -2,6 +2,10 @@
 
 A minimal and elegant personal portfolio website built to reflect creativity, professionalism, and modern design aesthetics.
 
+## 🌐 Live Demo
+
+Check out the live version: [meemnoir.vercel.app](https://meemnoir.vercel.app)
+
 ## ✨ Features
 
 - **Modern UI/UX** – Sleek and responsive layout designed with Tailwind CSS
@@ -36,10 +40,6 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-## 🌐 Live Demo
-
-Check out the live version: [meemnoir.vercel.app](https://your-project-name.vercel.app)
 
 ## 📁 Project Structure
 ```
