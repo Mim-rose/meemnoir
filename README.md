@@ -61,16 +61,8 @@ meemnoir/
 **Developed by:** Jannatul Afrose Mim
 
 - **GitHub:** [@Mim-rose](https://github.com/Mim-rose)
-- **LinkedIn:** [Jannatul Afrose Mim](https://www.linkedin.com/in/jannatul-afrose-mim)
+- **LinkedIn:** [Jannatul Afrose Mim](https://www.linkedin.com/in/jannatul-afrose-mim-a75158334)
 
 ## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
----
-
-⭐ **If you like this project, please give it a star on GitHub!**
-```
-
----
-
