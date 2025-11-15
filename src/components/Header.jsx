@@ -60,7 +60,7 @@ export default function Header() {
         </a>
 
         <a 
-          href="/assets/sample-resume.pdf" 
+          href="/assets/Jannatul_Afrose_Mim.pdf" 
           download 
           className="px-10 py-3 border-2 border-gray-500 rounded-full flex items-center gap-2 hover:bg-gray-50 transition-all"
         >
