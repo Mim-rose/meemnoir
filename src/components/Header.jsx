@@ -30,13 +30,18 @@ export default function Header() {
 
       {/* Main Heading */}
       <h1 className="text-3xl sm:text-6xl lg:text-[66px] font-bold leading-tight bg-gradient-to-r from-gray-800 to-gray-600 bg-clip-text text-transparent">
-        Passionate MERN Stack Developer
+        Passionate Full Stack Developer
       </h1>
 
       {/* Subheading */}
-      <p className="text-base md:text-lg text-gray-600 mt-3 max-w-2xl leading-relaxed">
+      {/* <p className="text-base md:text-lg text-gray-600 mt-3 max-w-2xl leading-relaxed">
         Turning ideas into elegant, responsive interfaces — combining frontend precision with backend logic to build thoughtful, scalable web experiences.
-      </p>
+      </p> */}
+      <p className="text-base md:text-lg text-gray-600 mt-3 max-w-2xl leading-relaxed">
+  Passionate about building end-to-end web applications, transforming ideas into
+  scalable solutions through modern frontend development, backend architecture,
+  database design, and API integration.
+</p>
 
       {/* NEW - Short Description */}
       <p className="text-sm text-gray-500 mt-2 max-w-xl italic">
